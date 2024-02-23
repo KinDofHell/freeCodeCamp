@@ -98,7 +98,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "dotenv": "16.4.4"
+    "dotenv": "16.4.4",
+    "license-checker": "^25.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.23.3",
